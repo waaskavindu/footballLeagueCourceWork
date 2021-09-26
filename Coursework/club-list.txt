@@ -1,0 +1,9 @@
+Club Name: abc
+Club Location: er
+Wins: 21
+Draws: 54
+Defeats43
+Goals: 5
+Points: 65
+Matches: 65
+Club Type: University_______________________________________________________
